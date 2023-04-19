@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Adam Farouk">
+    <meta name="description" content="Welcome to Flowers High School! Get the best education with experienced faculty and modern facilities.">
+    <meta name="keywords" content="flowers high school, education, faculty, facilities">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="image" content="flowerslogo.png">
+    <meta property="og:title" content="Flowers High School">
+    <meta property="og:description" content="Welcome to Flowers High School! Get the best education with experienced faculty and modern facilities.">
+    <meta property="og:image" content="flowerslogo.png">
+    <meta property="og:url" content="https://flowershighschool.github.io/">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Flowers High School">
+    <meta name="twitter:title" content="Flowers High School">
+    <meta name="twitter:description" content="Welcome to Flowers High School! Get the best education with experienced faculty and modern facilities.">
+    <meta name="twitter:image" content="flowerslogo.png">
+    <title>Flowers High School | Map</title>
+    <link rel="shortcut icon" type="images" href="images\flowerslogo.png">
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+    <!-- header section starts  -->
+
+    <header class="header">
+
+        <a href="index.php" class="logo"> <i class="fas fa-user-graduate"></i> Flowers High School </a>
+
+        <div id="menu-btn" class="fas fa-bars"></div>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="index.php">HOME</a></li>
+                <li><a href="about.php">ABOUT</a></li>
+                <li><a href="blog.php">BLOG</a></li>
+                <li><a href="ContactUs/contact.php">CONTACT US</a></li>
+            </ul>
+        </nav>
+
+    </header>
+
+    <!-- header section ends -->
+
+    <section class="heading">
+        <h3>contact us</h3>
+        <p> <a href="index.php">home >></a> map </p>
+    </section>
+
+    <section class="contact">
+
+        <div class="icons-container">
+
+            <div class="icons">
+                <i class="fas fa-phone"></i>
+                <h3>our number</h3>
+                <p>0535522212</p>
+            </div>
+
+            <div class="icons">
+                <i class="fas fa-envelope"></i>
+                <h3>our email</h3>
+                <p>flowershighschool@hotmail.com</p>
+            </div>
+
+            <div class="icons">
+                <i class="fas fa-map-marker-alt"></i>
+                <h3>our address</h3>
+                <p>LOT.ISMAILIA 7, N°49 Bd El Mourabitine, Meknès 50000</p>
+            </div>
+
+        </div>
+
+        <div class="row">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3311.4527810795585!2d-5.553085125237028!3d33.90374452555842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda044daa17f9035%3A0xc9325509bd80b9e5!2sFlowers%20High%20School!5e0!3m2!1sen!2sma!4v1681888719434!5m2!1sen!2sma" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <!-- footer section starts  -->
+
+    <section class="footer">
+
+        <div class="box-container">
+
+            <div class="box">
+                <h3>explore</h3>
+                <a href="index.php"> <i class="fas fa-arrow-right"></i> HOME </a>
+                <a href="about.php"> <i class="fas fa-arrow-right"></i> ABOUT </a>
+                <a href="blog.php"> <i class="fas fa-arrow-right"></i> BLOG </a>
+                <a href="contactus\contact.php"> <i class="fas fa-arrow-right"></i> CONTACT US </a>
+            </div>
+
+            <div class="box">
+                <h3>Follow US</h3>
+                <a href="https://www.facebook.com/FlowersHighSchool" target="_blank"> <i class="fab fa-facebook-f"></i> facebook </a>
+                <a href="https://www.linkedin.com/in/school-flowers-b1395868/?originalSubdomain=ma" target="_blank"> <i class="fab fa-linkedin"></i> linkedin </a>
+                <a href="https://www.instagram.com/flowershighschool/" target="_blank"> <i class="fab fa-instagram"></i> instagram </a>
+                <a href="https://www.youtube.com/@flowers-highschool6358" target="_blank"> <i class="fab fa-youtube"></i> youtube </a>
+            </div>
+
+        </div>
+
+        <div class="credit"> created by <span>adam farouk</span> | all rights reserved! </div>
+
+    </section>
+
+
+    <!-- custom js file link  -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
